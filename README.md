@@ -1,10 +1,12 @@
 <div align="center">
 
-[![MasterHead](https://youthincmag.com/wp-content/uploads/2018/09/Tech-in-Education.jpg)](https://ahmedburale.github.io/burale.io/)
+<a href="https://ahmedburale.github.io/burale.io/">
+  <img src="https://youthincmag.com/wp-content/uploads/2018/09/Tech-in-Education.jpg" alt="MasterHead" width="600">
+</a>
 
 <h1>Ahmed Burale</h1>
 
-<h3>Full Stack Java Developer & Data Analyst</h3>
+<h3>Junior Full Stack Java Developer & Data Analyst</h3>
 
 <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
