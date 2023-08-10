@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
 
 <!-- Portfolio Link with Image -->
@@ -33,7 +37,7 @@
 <!-- Tableau Icon -->
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" width="40" height="40"/>
 <!-- Excel Icon (representing Power Query) -->
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2019.svg" alt="Excel Icon" width="40" height="40"/>
+<img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel Icon" width="40" height="40"/>
 
 <h3>Connect with Me:</h3>
 <a href="https://linkedin.com/in/ahmed-burale" target="_blank">
