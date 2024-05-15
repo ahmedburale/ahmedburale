@@ -10,7 +10,7 @@
 </a>
 
 <h1>Ahmed Burale</h1>
-<h3>Junior Full Stack Java Developer & Data Analyst/Data Scientist </h3>
+<h3>Java/Python Developer & DA/DE/DS</h3>
 
 <!-- Coding GIF Image -->
 <img alt="Coding Animation" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
