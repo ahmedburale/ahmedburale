@@ -16,8 +16,6 @@
 <img alt="Coding Animation" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3>About Me:</h3>
-<strong>Current Projects:</strong> Budget Tracker, Student Information System Management<br>
-<strong>Learning:</strong> Full Stack Development<br>
 <strong>Discuss:</strong> Java, SQL, Tableau, Power Query, Spring Boot & React, Spring Data JPA<br>
 <strong>Fun Fact:</strong> Forward-thinking and relationship-oriented.<br>
 
