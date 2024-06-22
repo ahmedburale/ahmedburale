@@ -16,7 +16,7 @@
 <img alt="Coding Animation" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3>About Me:</h3>
-<strong>Discuss:</strong>I am passionate about technology and always eager to learn and innovate. With a strong foundation in Java and Python, I enjoy working on a variety of different domain projects, from developing applications to performing data analysis. I thrive on solving complex problems and collaborating with others to create impactful solutions.<br>
+<strong></strong>I am passionate about technology and always eager to learn and innovate. With a strong foundation in Java and Python, I enjoy working on a variety of different domain projects, from developing applications to performing data analysis. I thrive on solving complex problems and collaborating with others to create impactful solutions.<br>
 <strong>Fun Fact:</strong> Forward-thinking and relationship-oriented.<br>
 
 <h3>Contact:</h3>
