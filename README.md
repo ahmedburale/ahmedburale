@@ -21,6 +21,7 @@
 
 <h3>Contact:</h3>
 <strong>Email:</strong> <a href="mailto:catabilar@gmail.com">catabilar@gmail.com</a><br>
+<strong>LinkedIn:</strong> <a href="https://www.datascienceportfol.io/burale">Portfolio</a><br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmed-burale/">Profile</a><br>
 
 <h3>Skills and Tools:</h3>
