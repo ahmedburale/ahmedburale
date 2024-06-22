@@ -16,12 +16,12 @@
 <img alt="Coding Animation" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3>About Me:</h3>
-<strong>Discuss:</strong> Java, SQL, Tableau, Power Query, Spring Boot & React, Spring Data JPA<br>
+<strong>Discuss:</strong>I am passionate about technology and always eager to learn and innovate. With a strong foundation in Java and Python, I enjoy working on a variety of different domain projects, from developing applications to performing data analysis. I thrive on solving complex problems and collaborating with others to create impactful solutions.<br>
 <strong>Fun Fact:</strong> Forward-thinking and relationship-oriented.<br>
 
 <h3>Contact:</h3>
 <strong>Email:</strong> <a href="mailto:catabilar@gmail.com">catabilar@gmail.com</a><br>
-<strong>LinkedIn:</strong> <a href="https://www.datascienceportfol.io/burale">Portfolio</a><br>
+<strong>Portfolio:</strong> <a href="https://www.datascienceportfol.io/burale">Portfolio</a><br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmed-burale/">Profile</a><br>
 
 <h3>Skills and Tools:</h3>
