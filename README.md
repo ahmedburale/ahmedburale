@@ -11,9 +11,6 @@ Data and Computer Science & Engineering professional with **4+ years of experien
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-burale/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:catabilar@gmail.com)
 
-📍 Denver, Colorado
-Open to remote, hybrid, on-site, and relocation opportunities
-
 </div>
 
 ---
@@ -21,10 +18,6 @@ Open to remote, hybrid, on-site, and relocation opportunities
 ## About Me
 
 I develop data solutions, dashboards, reports, and backend applications using SQL, Python, Power BI, Tableau, Java, and Spring Boot.
-
-My experience includes education reporting, data validation, stakeholder support, REST API development, databases, cloud technologies, DevOps, and technical support.
-
-I am actively seeking opportunities in **data analytics, business intelligence, Java backend development, application analysis, and IT support**.
 
 ---
 
